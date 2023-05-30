@@ -65,11 +65,12 @@
         // No need to change anything ABOVE this line ^
 
         return (
+          <>
           <h1>Draw a Card</h1>
-          <button onClick={}>
+          <button onClick={drawCard}>
             Click to Draw a Card
           </button>
-          <button onclick={shuffle}>
+          <button onClick={shuffle}>
             Return Cards and Shuffle Deck
           </button>
           <div style={handStyles}>
@@ -81,8 +82,15 @@
               )
             })}
           </div>
+          </>
         )
       }
+
+      // Problem #1.) The return need to be encased with react fragments.
+
+      // Problem #2.) Add drawCard in the curly braces to invoke that particular funcion of code.
+
+      // Problem #3.) The onClick on line 73 is not in camelCase.
 
       // No need to change anything below this line
 

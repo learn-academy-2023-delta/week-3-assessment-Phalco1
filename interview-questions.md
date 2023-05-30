@@ -8,33 +8,33 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer:
+Your answer: Its a _____ that can take in other languages of code and implament it into React. JSX you have to have curly braces to for JSX to operate different code.
 
-Researched answer:
+Researched answer: A syntax extention that allows you to write JavaScript close to HTML in React.
 
-1. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
-Your answer:
+Your answer: yarn is a program that creates files that test fuctionality and run apps.
 
-Researched answer:
+Researched answer: Yarn is a package manager from Node.js
 
 3. What is a React component?
 
-Your answer:
+Your answer: React componenets are files that makes your app more dynamic. Apps are the parent of components.
 
-Researched answer:
+Researched answer: Components are reuable blocks of code. returns it in JSX. There are 2 types of components: class components and function componenets.
 
 4. What is the difference between state values and props in React?
 
-Your answer:
+Your answer: State values are objects that are the set data to reference in state. Props is the keyword that carries the data of the objects
 
-Researched answer:
+Researched answer: State values are local or internal and have to be coded by the developer. Props are external and can only be read by parent file.
 
 5. What is the DOM?
 
-Your answer:
+Your answer: The interface that you write the code. Digital Object Model?
 
-Researched answer:
+Researched answer: Document Object Model. It represents the entire user interface of the web app as a tree data structure.
 
 6. STRETCH: Which is the difference between a div tag and a span tag?
 
